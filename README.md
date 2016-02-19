@@ -1,4 +1,4 @@
-TWRP 3.0.0-0 Korean Translation Project
+MultiROM Korean Translation Project
 ===============================
 
 Author
